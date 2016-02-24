@@ -62,7 +62,7 @@ Here is the high level process of the build:
 * That's it!
 
 Thus, if you build the app locally, all you have to do in order to run the app is just open up `index.html` in the root directory of the repo. Pretty simple
-
+!
 ## Building yourself / Contributing Functionality
 
 For contributing core functionality in the app, you'll probably want to test your changes
